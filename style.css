@@ -165,9 +165,9 @@ header {
   font-family: "Nunito Sans", sans-serif;
 }
 #brand img {
-  height: 90px;
-  width: 95px;
-  margin-right: -22px;
+  height: 50px;
+  width: 50px;
+  margin-right: 12px;
 }
 
 ul {
